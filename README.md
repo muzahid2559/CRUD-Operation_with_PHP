@@ -5,10 +5,10 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/72061868/161439992-5f1b99ad-9650-4cd9-b584-a7855ee81453.png)
 
 # Code:
----
+
 details.php
 
-
+....
 <?php
 include "config.php";
 
@@ -56,4 +56,4 @@ while($row=mysqli_fetch_array($result)){
 	<a href="user_list.php" class="btn btn-info" role="button" style="float:right;">Home Page</a>
 </body>
 </html>
----
+....
