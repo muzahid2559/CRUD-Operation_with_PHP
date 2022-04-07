@@ -8,7 +8,7 @@
 
 details.php
 
-....
+````
 <?php
 include "config.php";
 
@@ -56,4 +56,4 @@ while($row=mysqli_fetch_array($result)){
 	<a href="user_list.php" class="btn btn-info" role="button" style="float:right;">Home Page</a>
 </body>
 </html>
-....
+````
