@@ -6,7 +6,7 @@
 
 # Code:
 
-details.php
+#details.php
 
 ````
 <?php
